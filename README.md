@@ -9,8 +9,11 @@ let novato = "💞️ Sou um novato, então caso você queira contribuir com os 
 let contato = "📫 Caso você queira falar comigo = Artti#2006";
 
 document.write(saudacao + "<br>");
+
 document.write(estudante + "<br>");
+
 document.write(aprendizado + "<br>");
+
 document.write(novato + "<br>");
 
 // Verificar se quer falar comigo
