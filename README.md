@@ -18,6 +18,7 @@ let querFalarComigo = true;
 if (querFalarComigo) {
   
 console.log("📫 Caso você queira falar comigo = \"Artti#2006 no Discord\"");
+
 } else {
  
  console.log("📫 Não hesite em me contatar se quiser conversar!");
