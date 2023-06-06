@@ -6,8 +6,6 @@ let aprendizado = "🌱 Atualmente, estou aprendendo JavaScript e também estou 
 
 let novato = "💞️ Sou um novato, então caso você queira contribuir com os meus trabalhos, não hesite!";
 
-let contato = "📫 Caso você queira falar comigo = Artti#2006";
-
 document.write(saudacao + "\n");
 document.write(estudante + "\n");
 document.write(aprendizado + "\n");
