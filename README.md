@@ -9,11 +9,12 @@ let novato = "💞️ Sou um novato, então caso você queira contribuir com os 
 let contato = "📫 Caso você queira falar comigo = Artti#2006";
 
 document.write(saudacao + "\n");
-  document.write(estudante + "\n");
-  document.write(aprendizado + "\n");
-  document.write(novato + "\n");
+document.write(estudante + "\n");
+document.write(aprendizado + "\n");
+document.write(novato + "\n");
 
 // Verificar se quer falar comigo
+
 let querFalarComigo = true;
 
 if (querFalarComigo) {
