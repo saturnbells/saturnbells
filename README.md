@@ -1,4 +1,4 @@
-👋 Olá, meu nome é '@artti0' {
+👋 console.log("Olá, meu nome é @artti0");
 
 👀 Sou estudante de desenvolvimento de sistemas pelo SENAI
 
