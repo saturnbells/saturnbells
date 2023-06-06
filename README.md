@@ -1,7 +1,11 @@
 let saudacao = "👋 Olá, meu nome é @artti0";
+
 let estudante = "👀 Sou estudante de desenvolvimento de sistemas pelo SENAI";
+
 let aprendizado = "🌱 Atualmente, estou aprendendo JavaScript e também estou aprendendo HTML";
+
 let novato = "💞️ Sou um novato, então caso você queira contribuir com os meus trabalhos, não hesite!";
+
 let contato = "📫 Caso você queira falar comigo = Artti#2006";
 
 document.write(saudacao + "<br>");
