@@ -1,5 +1,4 @@
 let saudacao = "👋 Olá, meu nome é @artti0";
-
 let estudante = "👀 Sou estudante de desenvolvimento de sistemas pelo SENAI";
 
 let aprendizado = "🌱 Atualmente, estou aprendendo JavaScript e também estou aprendendo HTML";
