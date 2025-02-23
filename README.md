@@ -1,8 +1,8 @@
-👋 Olá, meu nome é @artti0";
+👋 Olá, meu nome é Bruno, mas pode me chamar de Saturno / Saturn";
 
-👀 Sou estudante de desenvolvimento de sistemas pelo SENAI";
+👀 Sou estudante de ciências da computação pela Unifavip Wyden
 
-🌱 Atualmente, estou aprendendo JavaScript e também estou aprendendo HTML";
+🌱 Atualmente estou aprofundando meu conhecimento em JavaScript, Phyton e C. Futuramente irei focar em banco de dados.
 
 💞️ Sou um novato, então caso você queira contribuir com os meus trabalhos, não hesite!";
 
