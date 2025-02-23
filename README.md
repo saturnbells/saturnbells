@@ -6,7 +6,9 @@
 
 💞️ Sou um novato, então caso você queira contribuir com os meus trabalhos, não hesite!";
 
+👾 Caso queira me contatar, envie um pedido de amizade no discord, "saturnbells" é o meu username!
+
 <!---
-artti0/artti0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+saturnbells/saturnbells is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
