@@ -1,6 +1,9 @@
 Olá, meu nome é Bruno";
+
 Sou estudante de ciências da computação pela Unifavip Wyden
+
 Atualmente estou aprofundando meu conhecimento em JavaScript, Phyton e C. Futuramente irei focar em banco de dados.
+
 Sou um novato, então caso você queira contribuir com os meus trabalhos, não hesite!";
 
 <!---
