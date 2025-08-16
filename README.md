@@ -1,10 +1,10 @@
-Olá, meu nome é Bruno";
+Wasup, my name is Bruno
 
-Sou estudante de ciências da computação pela Unifavip Wyden
+I'm a computer science student at "Unifavip Wyden" college.
 
-Atualmente estou aprofundando meu conhecimento em JavaScript, Phyton e C. Futuramente irei focar em banco de dados.
+I'm currently studying JavaScript, Phyton and C. My future objective is to get "in-depth" learning about databases.
 
-Sou um novato, então caso você queira contribuir com os meus trabalhos, não hesite!";
+And I'm also a noob, so if you can help me out to improve my code, I would really appreciate it (:
 
 <!---
 saturnbells/saturnbells is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
